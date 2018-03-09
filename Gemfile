@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+Bundler.require
 
 gem "rspec"
 gem "sinatra"
