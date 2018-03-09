@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "rspec"
 gem "sinatra"
-gem install hashie
+gem "hashie"
 
 group :development do
   gem "pry"
