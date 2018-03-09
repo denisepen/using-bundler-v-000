@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem "rspec"
 gem "sinatra"
 gem "hashie"
-gem 'sinatra', '~> 1.4'
+gem 'sinatra', '~> 1.4', '>= 1.4.7'
 
 group :development do
   gem "pry"
