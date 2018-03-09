@@ -1,5 +1,7 @@
-source "https://rubygems.org"
 Bundler.require
+
+source "https://rubygems.org"
+
 
 gem "rspec"
 gem "sinatra"
